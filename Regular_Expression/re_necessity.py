@@ -21,6 +21,7 @@ else:
 
 
 # 2. 정규 표현식을 사용한 코드
+
 import re
 
 text = "my email is jbljw02@naver.com"
