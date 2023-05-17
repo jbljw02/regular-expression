@@ -139,7 +139,6 @@ else:
 # 4. findall : pattern과 text에서 매칭되는 모든 부분을 리스트로 반환합니다. 매칭된 부분이 없을 경우 빈 리스트를 반환합니다.
 pattern = 'ab'
 text = 'abcdefg'
-
 match_list = re.findall(pattern, text)
 print(match_list)
 
